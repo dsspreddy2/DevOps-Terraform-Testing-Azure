@@ -1,8 +1,7 @@
 provider "azurerm" {
-  subscription_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-  client_id       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-  client_secret   = "xxxxxxx11111111111111111111111111111"
-  tenant_id       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  subscription_id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  client_id       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  client_secret   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx5"
+  tenant_id       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   features {}
 }
-
